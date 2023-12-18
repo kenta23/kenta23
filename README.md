@@ -1,4 +1,4 @@
-![Logo](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+![Logo](https://i.ytimg.com/vi/cu7o2ml4-Pw/maxresdefault.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=2000&pause=1000&color=E5F749&random=false&width=489&lines=Web+Fullstack+Developer+)](https://git.io/typing-svg)
 
