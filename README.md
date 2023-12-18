@@ -1,16 +1,31 @@
-### Hi there 👋
+![Logo](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
-<!--
-**kenta23/kenta23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=2000&pause=1000&color=E5F749&random=false&width=489&lines=Web+Fullstack+Developer+)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome to my Techy world 👋
+
+## 🚀 About Me
+
+Hello, my name is Rusty Miguel Ramos, and I am a BSCS student at the University of Caloocan City in the Philippines. Aside from being a web developer/UI Designer, I enjoy photography, computer games, traveling, and working out at the gym.
+
+## 🛠 Skills
+UI Design, ReactJS, Laravel PHP, Javascript, Node
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rmramos23)
+
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dreyy23)
+
+
+
+
+## Other Common Github Profile Sections
+
+![Kenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta23&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenta23&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
