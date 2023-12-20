@@ -12,6 +12,12 @@ Hello, my name is Rusty Miguel Ramos, and I am a BSCS student at the University 
 ## 🛠 Skills
 UI Design, ReactJS, Laravel PHP, Javascript, Node
 
+## Other Common Github Profile Sections
+
+![Kenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta23&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenta23&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔗 Links
 
@@ -19,13 +25,5 @@ UI Design, ReactJS, Laravel PHP, Javascript, Node
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dreyy23)
 
-
-
-
-## Other Common Github Profile Sections
-
-![Kenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta23&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenta23&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
